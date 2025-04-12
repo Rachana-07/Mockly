@@ -1,4 +1,6 @@
-Overview
+ AI-Powered Mock Interview System 
+ 
+ Overview
 
 
 The AI-Powered Mock Interview System is an innovative application designed to help users prepare for technical interviews. The system uses advanced AI algorithms to simulate realistic interview scenarios, offering users personalized feedback on their responses. It aims to improve interview performance by providing real-time suggestions and constructive critiques.
@@ -17,16 +19,10 @@ AI-based Question Generation: The system generates relevant questions based on t
 Speech Recognition: Analyzes spoken responses for accuracy, clarity, and relevance.
 
 
-
-
 Real-time Feedback: Provides instant feedback on the user’s responses, pointing out areas for improvement.
 
 
-
-
 Customizable Interview Modules: Users can select specific modules (e.g., coding questions, behavioral questions, etc.).
-
-
 
 
 Progress Tracking: Keeps track of performance over time, showing areas that need further practice.
@@ -74,7 +70,7 @@ Clone the repository:
 
 bash
 CopyEdit
-git clone https://github.com/your-username/ai-mock-interview-system.git
+git clone https://github.com/Rachana-07/Mockly.git
 
 
 
